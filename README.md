@@ -1,0 +1,1 @@
+This repository lists some javascript samples which help the learners.
